@@ -7,7 +7,7 @@
   "author": "siddharthkp",
   "license": "MIT",
   "dependencies": {
-    "knex": "^0.21.1",
+    "knex": "^0.21.5",
     "pg": "^8.0.3"
   }
 }
